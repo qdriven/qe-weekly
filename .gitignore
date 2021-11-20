@@ -1,3 +1,7 @@
 .idea/
 node_modules/*
 */node_modules/
+*.jar
+workspace/wordpress/mysql_data
+workspace/wordpress/wp-content
+workspace/wordpress/site_data
