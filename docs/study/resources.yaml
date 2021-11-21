@@ -1,0 +1,20 @@
+news:
+  - https://www.zhihu.com/org/gong-ju-ren-xue-tang
+
+tools:
+  repo-org:
+    - https://github.com/TNG
+
+storage:
+  repo-org:
+    - https://github.com/minio/
+
+cloud:
+  repo: 
+    - https://github.com/cncf
+bigdata:
+  repo:
+    - https://github.com/ClickHouse
+person:
+  repo:
+    - https://github.com/astefanutti
