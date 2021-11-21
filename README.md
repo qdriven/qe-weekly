@@ -6,3 +6,7 @@ QA Engineer's Weekly Notes.
 
 Init QA Engineer Weekly Notes.
 
+## 11.21
+
+Add JIRA resources.
+- [JIRA Resources](docs/jira/jira-resources.md)
