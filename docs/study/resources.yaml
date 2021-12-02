@@ -1,6 +1,7 @@
 news:
   - https://www.zhihu.com/org/gong-ju-ren-xue-tang
-
+blogs:
+  - https://github.com/vtrois/kratos
 tools:
   repo-org:
     - https://github.com/TNG

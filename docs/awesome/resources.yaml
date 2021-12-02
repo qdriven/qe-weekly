@@ -1,4 +1,10 @@
+tools:
+  - https://zh.numberempire.com/
+  - https://www.diggui.com/
+shell:
+  - https://explainshell.com/
 repos:
+  - https://github.com/awesome-wiki/awesome-bookmarks
   - https://github.com/marmelab/awesome-rest
   - https://github.com/awesomeSBOM/awesome-sbom
   - https://github.com/stevemao/awesome-git-addons
