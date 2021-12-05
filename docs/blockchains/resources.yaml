@@ -1,0 +1,24 @@
+repos:
+  - https://github.com/orgs/OpenZeppelin/repositories
+  - https://github.com/l2beat/l2beat
+chains:
+  - name: starkware
+    github: https://github.com/starkware-libs/
+    medium: https://medium.com/starkware/starknet/home
+    hackmd: https://hackmd.io/@MvmrwldqQeWI1UQX31hSHQ/ryN2W3k8U
+    wallet: https://giters.com/pedrouid/starkware-wallet
+  - name: gnosis
+    github: https://github.com/gnosis
+  - name: NethermindEth
+    github: https://github.com/NethermindEth
+  - name: graph protocol
+    github: https://github.com/graphprotocol/graph-node
+  - name: lightingnetwork
+    github: https://github.com/lightningnetwork/lnd
+  - name: ipfs
+    github: https://github.com/ipfs/ipfs-desktop  
+vc:
+  - https://www.wing.vc/
+  - https://www.paradigm.xyz/portfolio/
+news:
+  - https://newsletter.ether.fm/p/constitutiondao-raises-40-million
