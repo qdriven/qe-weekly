@@ -7,6 +7,7 @@ repo:
   - https://github.com/ThemeFuse/Brizy
   - https://github.com/plasmicapp/plasmic
   - https://github.com/givanz/VvvebJs
+  - https://gitee.com/iteaj/online
 topics:
   - https://github.com/topics/page-builder
   - https://github.com/topics/drag-and-drop
@@ -14,7 +15,10 @@ sites:
   - https://www.techrepublic.com/article/low-code-platforms-a-cheat-sheet/
   - https://uibakery.io/post/top-low-code-no-code-platforms
   - https://medevel.com/19-open-source-low-code/
-  - 
+  - https://zhuanlan.zhihu.com/p/51518465
+to-be-written:
+  - https://github.com/ovineio
+  - https://docs.appsmith.com/framework-reference/cheat-sheet
 tools:
   - http://lowcode.dooring.cn/
   - https://qingflow.com/
@@ -44,4 +48,12 @@ tools:
   - https://github.com/ambit-tsai?tab=repositories
   - https://github.com/orgs/tailwindlabs/repositories
   - https://github.com/justboil
+  - https://github.com/buqiyuan/vite-vue3-lowcode
+  - https://github.com/gudaoxuri?tab=repositories
+  - https://github.com/chanjarster
+  - https://github.com/bernaferrari/FigmaToCode
+  - https://gitee.com/wswhq/projects
+  - https://gitee.com/wswhq/vue3-element-plus-vite2-updating
+  - https://github.com/liheyuan?tab=repositories
+
 
