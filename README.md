@@ -11,3 +11,7 @@ Init QA Engineer Weekly Notes.
 Add JIRA resources.
 - [JIRA Resources](docs/jira/jira-resources.md)
 - [Slides in Terminal](docs/slides/1-slides-terminal.md)
+
+## 12.11
+
+- [Basic Software for Developer](weekly-collections/2022-12-11-Weekly.md)
