@@ -1,17 +1,21 @@
-# README
+# dumi app
 
-QA Engineer's Weekly Notes.
+## Getting Started
 
-## 11.20
+Install dependencies,
 
-Init QA Engineer Weekly Notes.
+```bash
+$ npm i
+```
 
-## 11.21
+Start the dev server,
 
-Add JIRA resources.
-- [JIRA Resources](docs/jira/jira-resources.md)
-- [Slides in Terminal](docs/slides/1-slides-terminal.md)
+```bash
+$ npm start
+```
 
-## 12.11
+Build site app,
 
-- [Basic Software for Developer](weekly-collections/2022-12-11-Weekly.md)
+```bash
+$ npm run build
+```
