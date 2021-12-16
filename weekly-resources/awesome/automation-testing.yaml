@@ -1,5 +1,6 @@
 repos:
   - https://www.pythonpodcast.com/episodes/
+  - https://github.com/shulieTech/Takin.git
   - https://github.com/zebrunner
   - https://github.com/crusherdev
   - https://github.com/Armour/vue-typescript-admin-template
