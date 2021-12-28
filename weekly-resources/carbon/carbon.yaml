@@ -68,9 +68,23 @@ sites:
   - https://www.co2analytics.com/carbon-accounting
   - https://envizi.com/solutions/
   - https://sphera.com/insights/
-  
 
-efdb
+data:
+  - https://ecoinvent.org/
+  - https://www.hestia.earth/
+  - https://www.greendelta.com/projects/
+  - https://www.carbonkit.net/
+  - https://github.com/uslci-admin
+  - https://www.nrel.gov/lci/about.html
+  - https://www.myclimate.org/
+  - https://blonksustainability.nl/tools/agri-footprint
+  - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/life-cycle-inventory
+  - https://www.nstda-tiis.or.th/en/our-rd-activities/lci-database/development-and-establishment-of-national-lci-database/
+  - https://ecoinvent.org/
+  - https://simapro.com/about/
+  - https://www.lifecycleinitiative.org/about/about-lci/
+  - LCI database
+efdb:
   - https://www.ipcc-nggip.iges.or.jp/EFDB/find_ef.php
   - https://www.iea.org/policies?language=zh&sector=Buildings%2CServices&topic=Energy%20Efficiency&page=7
   - https://www.dess.tsinghua.edu.cn/info/1080/5178.htm
