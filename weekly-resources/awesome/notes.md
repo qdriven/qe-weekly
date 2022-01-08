@@ -41,6 +41,7 @@ Disclosure: Some links are affiliate links to products. I may receive a small co
 - https://pika.rishimohan.me/
 - https://writerresources.softr.app/
 - https://retrera.com/
+- https://www.ashbyhq.com/blog/company
 
 ## Resources:
 
@@ -50,3 +51,13 @@ Disclosure: Some links are affiliate links to products. I may receive a small co
 - https://www.nocodedevs.com/
 - https://figkit.com/
 - https://www.selectstar.com/
+
+
+## Chains
+
+- https://fantom.foundation/get-started/
+- https://www.covalenthq.com/docs/
+- https://openzeppelin.com/
+- https://github.com/cloudflare
+- https://pro.nansen.ai/auth/login
+- https://dune.xyz/browse/dashboards
