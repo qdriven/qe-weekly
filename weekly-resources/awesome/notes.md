@@ -51,11 +51,22 @@ Disclosure: Some links are affiliate links to products. I may receive a small co
 - https://www.nocodedevs.com/
 - https://figkit.com/
 - https://www.selectstar.com/
+- https://hub.helloguru.io/
 
 
 ## Chains
-
+- https://gitcoin.co/grants/711/furucombo-build-your-own-defi-legos-into-one-tran
+- https://github.com/dinngodev?tab=repositories
+- https://github.com/programeth
+- https://github.com/dinngodev/furucombo-contract
+- https://cmichel.io/
 - https://fantom.foundation/get-started/
+- https://polygon.technology/get-started/
+- https://immunefi.com/learn/
+- https://www.polygongrantshackathon.com/
+- https://furucombo.app/
+- https://github.com/zivkovicmilos?tab=repositories
+- https://github.com/orgs/0xPolygon/repositories?type=all
 - https://www.covalenthq.com/docs/
 - https://openzeppelin.com/
 - https://github.com/cloudflare
