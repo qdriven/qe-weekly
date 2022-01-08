@@ -28,3 +28,25 @@ Disclosure: Some links are affiliate links to products. I may receive a small co
 ## Reading
 
 - https://mirror.xyz/0xE43a21Ee76b591fe6E479da8a8a388FCfea6F77F/znaPSL__AdRETrJoWmr-uxSkNeWJ3HQAkCJrfxmzfnA
+- https://mirror.xyz/maoyan.eth/HWWFWHWAoPpL8t2sM5M3fZ-OiNdbhAIAqFYeup79Trs
+- https://cobie.substack.com/p/wtf-is-web3
+- https://anchor.fm/uncommoncore
+- https://tokenaround.com/
+
+## Opensource
+
+- https://opensourcelibs.com/
+- https://www.airplane.dev/
+- https://continuum.xyz/
+- https://pika.rishimohan.me/
+- https://writerresources.softr.app/
+- https://retrera.com/
+
+## Resources:
+
+- https://github.com/hzlzh
+- https://github.com/PlainAdmin/plain-free-bootstrap-admin-template
+- https://www.newsly.me/
+- https://www.nocodedevs.com/
+- https://figkit.com/
+- https://www.selectstar.com/
