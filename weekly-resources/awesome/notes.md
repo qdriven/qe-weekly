@@ -24,3 +24,7 @@ https://twitter.com/techleadhd/
 
 Disclosure: Some links are affiliate links to products. I may receive a small commission for purchases made through these links. Cryptocurrencies are not legal tender and are not investments.
 ```
+
+## Reading
+
+- https://mirror.xyz/0xE43a21Ee76b591fe6E479da8a8a388FCfea6F77F/znaPSL__AdRETrJoWmr-uxSkNeWJ3HQAkCJrfxmzfnA
