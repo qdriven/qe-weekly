@@ -3,7 +3,9 @@ sites:
   - https://fleek.co/
   - https://www.quantconnect.com/
   - https://www.zscaler.com/
-  
+  - https://runtimeverification.com/blog
 keywords:
   - cosmos
   - icp
+repos:
+  - https://github.com/opengsn
