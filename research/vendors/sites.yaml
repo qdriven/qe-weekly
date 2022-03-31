@@ -27,6 +27,7 @@ tests:
   - https://gitee.com/zem9401/feishu
 
 low-code:
+  - https://github.com/appsmithorg/appsmith
   - https://github.com/node-red  
   - https://github.com/Budibase/budibase
   - https://github.com/frappe/frappe
@@ -52,6 +53,7 @@ low-code:
   - https://github.com/wechat-miniprogram/api-typings
   - https://github.com/openrewrite/rewrite-docs
   - https://github.com/stoplightio/prism
+  
 blockchains:
   - https://github.com/NoahZinsmeister  
   - https://www.snia.org/education/what-is-blockchain-storage
