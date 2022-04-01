@@ -25,6 +25,7 @@ edu_product:
   - https://quine.sh/
   - https://sourcery.ai/
   - https://pitch.com/use-cases/pitch-decks
+  - https://github.com/zero-to-mastery
 docs:
   - https://github.com/h-enk/doks
   - https://themes.gohugo.io/themes/hugo-theme-techdoc/
@@ -44,12 +45,17 @@ qe_topics:
   - https://github.com/topics/social-network
   - https://github.com/topics/indieweb
   - https://github.com/topics/cms
+  - https://github.com/topics/template?l=go
+  - https://github.com/topics/clean-architecture
 low-codes:
   - https://github.com/ToolJet/ToolJet
   - https://github.com/Treblle
   - https://docs.retool.com/docs
   - https://github.com/tryretool
-
+low-code-templates:
+  - https://github.com/Armour/vue-typescript-admin-template
+  - https://github.com/thoughtbot/suspenders.git
+  - https://github.com/iczer/vue-antd-admin
 wikis:
   - https://github.com/apachecn/javatpoint-python-zh
   - https://learnku.com/go/wikis
